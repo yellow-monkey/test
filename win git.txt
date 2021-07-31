@@ -5,3 +5,4 @@ hello 火影忍者
 hello 王之力
 hello 皮卡丘
 hello 兵长
+hello 纲吉
