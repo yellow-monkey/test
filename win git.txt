@@ -4,3 +4,4 @@ hello 海贼王
 hello 火影忍者
 hello 王之力
 hello 皮卡丘
+hello 兵长
